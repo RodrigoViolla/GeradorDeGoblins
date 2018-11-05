@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Cenas/Ficha.unity
-  isLoaded: 1
-  isActive: 1
